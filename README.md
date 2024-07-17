@@ -43,7 +43,7 @@ Dự án phát triển một trang web đấu giá trang sức mang tên "Jewelr
 - **Frontend**: React.js, CSS, HTML
 - **Backend**: Spring boot
 - **Database**: SQL Server
-- **Authentication**:
+- **Authentication**: JWT, OAuth
 - **Deployment**:
 
 
