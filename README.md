@@ -53,9 +53,9 @@ Dự án phát triển một trang web đấu giá trang sức mang tên "Jewelr
 
 | Sprint  | User Story (US) IDs                       |
 |---------|-------------------------------------------|
-| Sprint 1|  US27, US20, US25, US16, US8, US13        |
+| Sprint 1|  US27, US20, US25, US17, US8, US13        |
 |         |                                           |
-| Sprint 2|  US28, US14, US12, US57, US49, US54       |
+| Sprint 2|  US28, US14, US12, US18, US49, US54       |
 |         |                                           |
 | Sprint 3|  US68, US73, US76, US58, US50, US79, US52 |
 |         |                                           |
