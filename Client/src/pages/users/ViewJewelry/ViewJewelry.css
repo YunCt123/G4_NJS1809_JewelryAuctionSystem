@@ -1,0 +1,149 @@
+.ViewJewelry{
+  margin-top: 150px;
+  padding: 30px 35px 9px;
+  position: relative;
+  max-width: fit-content; 
+  display: flex;
+  flex-wrap: wrap; 
+  align-items: center; 
+  text-align: center;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+}
+.PageName_ViewJewelry{
+  padding: 0 25px 0;
+  font-style: italic;
+  font-size: 35px;
+
+}
+.Jewelry{
+  align-items: flex-start;
+  width: 90%; 
+  margin: 0 auto;
+  display: flex;
+  border-style: solid;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+.ImageFrame{
+  margin-top: 20px;
+  display: flex;
+  background-color: #5f4a3a;
+  flex-direction: column;
+  padding: 50px;
+  gap: 84px;
+  border-radius: 20px;
+
+}
+.Image{
+  display: flex;
+width: 501px;
+height: 414px;
+right: 23px;
+top: 72px;
+
+}
+.info_ViewJewelry{
+  text-align: left;
+  padding: 5px 105px 0;
+  min-width: 539px;
+  width: 0;
+  border: black;
+  margin-bottom: 50px;
+}
+.JewelryName{
+  font-weight: bold;
+  text-align: left;
+  max-width: 600px;
+  font-size: 48px;
+}
+.WordStyle_JewelryInfo{
+  padding: 25px 5px 0;
+  font-size: 24px;
+}
+.PlaceBidButton{
+  background-color: rgb(96, 74, 134);
+  font-size: 24px;
+  color: #f1e9e9;
+  font-weight: bold;
+  margin: 25px 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  
+}
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.popup-content {
+  color: black;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  max-width: 500px;
+  width: 100%;
+  position: relative;
+}
+
+.close-button {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+.ImageFrame {
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #F5F5F5; /* Brown color */
+  border-radius: 10px;
+  width: 600px; /* Fixed width */
+  height: 700px; /* Increased height to accommodate thumbnails */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Image {
+  border-style: solid;
+  max-width: 100%;
+  max-height: 100%;
+  margin-bottom: 10px; /* Space between main image and thumbnails */
+}
+
+.Thumbnails {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.Thumbnail {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: border-color 0.3s ease;
+}
+
+.Thumbnail.selected {
+  border-color: #000;
+}
+
+.Middle{
+  justify-content: center;
+}
