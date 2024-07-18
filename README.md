@@ -57,9 +57,9 @@ Dự án phát triển một trang web đấu giá trang sức mang tên "Jewelr
 |         |                                           |
 | Sprint 2|  US18, US21, US22, US29, US30             |
 |         |                                           |
-| Sprint 3|  US68, US73, US76, US58, US50, US79, US52 |
+| Sprint 3|  US23, US16, US9, US10, US19              |
 |         |                                           |
-| Sprint 4|  US69, US84, US77, US59, US51, US80, US81 |
+| Sprint 4|  US11, US8, US24, US28, US26              |
              
 ## Member Assignments for Sprints 
 
