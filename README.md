@@ -55,7 +55,7 @@ Dự án phát triển một trang web đấu giá trang sức mang tên "Jewelr
 |---------|-------------------------------------------|
 | Sprint 1|  US27, US20, US25, US21, US8, US13        |
 |         |                                           |
-| Sprint 2|  US28, US14, US12, US18, US49, US54       |
+| Sprint 2|  US18, US21, US22, US29, US30             |
 |         |                                           |
 | Sprint 3|  US68, US73, US76, US58, US50, US79, US52 |
 |         |                                           |
@@ -65,7 +65,7 @@ Dự án phát triển một trang web đấu giá trang sức mang tên "Jewelr
 
 | Member      | User Story (US) Assigned                                    |
 |-------------|-------------------------------------------------------------|
-| Trịnh Đức Anh            | US27, US28, US29, US30                         |
+| Trịnh Đức Anh            | US27, US17, US29, US30                         |
 | Nguyễn Thanh Mai         | US20, US28, US14, US15                         |
 | Bùi Diệp Anh             | US25, US26, US12, US24                         | 
 | Hân                      | US16, US21, US18, US19                         |
